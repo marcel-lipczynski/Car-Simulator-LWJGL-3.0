@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d005e08-db2f-4ef7-a5b7-e96e4c140a12" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarSimulator/src/EngineTester/MainGameLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CarSimulator/src/Shaders/StaticShader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CarSimulator" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CarSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarSimulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="CarSimulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Shaders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557340471005" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d005e08-db2f-4ef7-a5b7-e96e4c140a12" name="Default Changelist" comment="" />
+      <created>1557339586046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557339586046</updated>
+      <workItem from="1557339587251" duration="897000" />
+      <workItem from="1557340538213" duration="70000" />
+      <workItem from="1557671403731" duration="402000" />
+      <workItem from="1557671810196" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25596184" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Entity/Camera.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Entity/Entity.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Entity/Light.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/GUI/guiFragmentShader" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/GUI/guiVertexShader" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Entity/Player.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/GUI/GuiTexture.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Models/RawModel.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Models/TexturedModel.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/OBJFileLoader/ModelData.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/OBJFileLoader/OBJFileLoader.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/LibrarySupport/Keyboard.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/LibrarySupport/Maths.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/LibrarySupport/Vector2f.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/LibrarySupport/Vector3f.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/LibrarySupport/Vector4f.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/RenderEngine/OBJLoader.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Shaders/fragmentShader" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Terrain/Terrain.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Textures/ModelTexture.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Textures/TerrainTexture.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Textures/TerrainTexturePack.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Textures/TextureData.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/SkyBox/SkyboxRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/OBJFileLoader/Vertex.java" />
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/EngineTester/MainGameLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarSimulator/src/Shaders/StaticShader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
